@@ -1,0 +1,34 @@
+body {
+  display: flex;
+  flex-direction: column;
+  background-color: #0f2c67;
+}
+
+.cabecera {
+  display: flex;
+  background-color: #f3950d;
+  align-content: center;
+  box-sizing: border-box;
+  height: 200px;
+}
+
+.titulo {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  flex: 1;
+}
+
+.sideimg {
+  box-sizing: border-box;
+  display: flex;
+  align-content: center;
+  width: auto;
+  height: auto;
+}
+
+.palete {
+  color: #cd1818;
+  color: #f3950d;
+  color: #0f2c67;
+}
